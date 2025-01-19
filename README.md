@@ -1,4 +1,4 @@
-# Drag-and-Drop Data Visualization Dashboard
+# Responsive-Crypto-DashBoard
 
 ## Setup Instructions
 **Install node from the official node.js website (https://nodejs.org)**
