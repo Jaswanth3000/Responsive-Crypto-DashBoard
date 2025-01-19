@@ -17,9 +17,10 @@
    
    ii. Extract the Zip file
    
-   iii. Open that folder in a Code Editor
+   iii. Open that Extracted folder in a Code Editor
 
 3. Install dependencies:
+   Open the Integrated terminal from that folder using Ctrl+` and run the following commands
    ```sh
    npm install
    ```
