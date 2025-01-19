@@ -5,10 +5,10 @@
 
 1. Clone the repository:
    ```sh
-    git clone https://github.com/your-repo/drag-and-drop-dashboard.git
+    git clone https://github.com/Jaswanth3000/Responsive-Crypto-DashBoard
     ```
    ```sh
-   cd drag-and-drop-dashboard
+   cd Responsive-Crypto-DashBoard
    ```
    
    **OR**
